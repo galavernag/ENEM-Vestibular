@@ -1,0 +1,2 @@
+#geografia
+O sensoriamento remoto é a técnica de **obtenção de informações** acerca de um objeto, área ou fenômeno localizado na Terra, **sem que haja contato físico** com o mesmo. As informações podem ser obtidas através de radiação eletromagnética, gerada por **fontes naturais** (**sensor passivo**), como o Sol, ou por **fontes artificias** (**sensor ativo**) como o radar.

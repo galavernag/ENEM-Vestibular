@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "/Anexos",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

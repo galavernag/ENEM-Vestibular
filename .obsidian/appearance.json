@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidianite",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "align"
+  ]
+}
