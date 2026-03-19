@@ -21,4 +21,11 @@ Poder é a capacidade de impor a própia vontade
 ### Tipos de Ações Sociais
 - Legal: estabelecida por um contrato social (ex.: Estado)
 - Tradicional: baseada em costumes (ex.: Patriarcalismo)
-- Carismática: liderança individual (ex.: ditaduras)
+- Carismática: liderança individual por meio de carisma (ex.: ditaduras)
+## Religião e Capitalismo
+A Ética Protestante e o Espírito do Capitalismo
+- Valores protestantes (trabalho, disciplina, poupança)
+- Favorecimento do desenvolvimento do Capitalismo
+- Predestinação: pessoas já nascem marcadas pela salvação ou não
+- Desencanto do Mundo (por causa do racionalismo)
+- Burocracia como forma de organização racional da sociedade moderna
